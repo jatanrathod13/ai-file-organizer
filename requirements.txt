@@ -1,0 +1,11 @@
+python-magic-bin==0.4.14
+PyPDF2==3.0.1
+watchdog==3.0.0
+PyQt6==6.6.1
+python-dotenv==1.0.0
+openai==1.12.0
+pandas==2.2.0
+numpy==1.26.3
+python-dateutil==2.8.2
+langchain==0.1.4
+langchain-openai==0.0.5 
